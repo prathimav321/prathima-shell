@@ -1,0 +1,2 @@
+# prathima-shell
+shell scripting
